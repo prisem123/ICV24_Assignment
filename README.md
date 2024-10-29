@@ -6,7 +6,7 @@ If you have any questions or concerns, please email [me](https://github.com/pris
 
 
 ## Assignment List
-- 1. Camera Calibration
-- 2. Hough Transform
-- 3. Homography and Image Stitching
-- 4. Deep Classification Tasks
+1. Camera Calibration
+2. Hough Transform
+3. Homography and Image Stitching
+4. Deep Classification Tasks
