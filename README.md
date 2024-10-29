@@ -1,7 +1,7 @@
-# Introduction to Computer Vision S24 Assignment Solution
+# ICV S24 Assignment Solution
 
 I'm sharing my assignment in hopes that it may help others.
-This assignment is from the **Sprint 2024 Introduction to Computer Vision** course at [Seoul National University](https://en.snu.ac.kr/index.html).
+This assignment is from the **Spring 2024 Introduction to Computer Vision** course at [Seoul National University](https://en.snu.ac.kr/index.html).
 If you have any questions or concerns, please email [me](https://github.com/prisem123).
 
 Assignment #4 was mostly implemented in the provided skeleton code, so I didn't upload it.
